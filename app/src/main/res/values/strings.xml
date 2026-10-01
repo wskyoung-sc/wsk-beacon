@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">차어디</string>
+    <string name="scan_channel_name">비콘 거리 측정</string>
+    <string name="scan_channel_description">비콘이 잡히면 깨어나서 거리를 측정합니다.</string>
+    <string name="scan_notification_title">차어디 대기 중</string>
+    <string name="scan_notification_text">비콘이 잡히면 자동으로 측정합니다.</string>
+    <string name="scan_notification_title_measuring">차어디 측정 중</string>
+    <string name="scan_notification_text_measuring">주차 비콘 거리를 재고 있습니다.</string>
+    <string name="widget_name">차어디</string>
+    <string name="widget_description">현재 층과 마지막 수신 시각을 홈 화면에 보여 줍니다.</string>
+    <string name="widget_searching">찾는 중</string>
+    <string name="widget_current_label">현재 거리</string>
+    <string name="widget_closest_label">가장 가까웠을 때</string>
+</resources>
